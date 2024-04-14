@@ -2,7 +2,7 @@
 
 <h2 align="left"> Descripcion</h2>
 <p>
-La idea principal es manejar el inventario de unos productos de manera  que pueda ir registrando los datalles de los mismo y tenga claridad de lo que se esta vendiendo.
+La idea principal es manejar el inventario de unos productos de manera  que pueda ir registrando los detalles de los mismos y tenga claridad de lo que se esta vendiendo.
 </p>
 <h2 align="left"> Arquitectura</h2>
 <p>
